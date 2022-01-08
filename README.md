@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanley Okoli (@okoliStanley)
 - 👀 I’m interested in dotnet and blockchain
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning hardhat and ether.js
 - 💞️ I’m looking to collaborate on NFTS and Smart Contract Projects
 - 📫 You can reach me via mail @ okolistanley22@yahoo.com
 
